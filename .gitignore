@@ -19,6 +19,12 @@ ENV/
 .vscode/
 .idea/
 
+
+# mp4 files
+!*.mp4
+*.mp4
+!*.mp4
+
 # OS files
 .DS_Store
 Thumbs.db
